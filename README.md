@@ -12,4 +12,5 @@
   - [x] Implement new epsilon-greedy approach.
   - [ ] Change the traffic model.
   - [ ] Implement a new state space including a state for more users than supported by the system.
+  - [ ] Explain code and theory better.
   
